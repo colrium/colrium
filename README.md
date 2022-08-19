@@ -1,11 +1,11 @@
-<h1 align="center" style="font-size: 48px">Hello 👋</h1>
-<h2 align="center" style="font-size: 32px">I'm Mutugi</h2>
+<h1 align="center" style="font-size: 48px; border-bottom: 1px solid transparent;">Hello 👋</h1>
+<h2 align="center" style="font-size: 32px; border-bottom: 1px solid transparent;">I'm Mutugi</h2>
 <br>
 <h5 align="center">A passionate skillful full stack developer from Kenya</h5>
 <br>
 <h2 align="center">I offer solutions</h2>
 <br>
-<h4 align="center">Open to new opportunities to learn and available for hire.</h4>
+<h4 align="center">Am open to new opportunities to learn and available for hire.</h4>
 <h3 align="center">Get in touch</h3>
 <br>
 <p align="center">
