@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 48px; border-bottom: 1px solid transparent;">Hello 👋</h1>
 <h2 align="center" style="font-size: 32px; border-bottom: 1px solid transparent;">I'm Mutugi</h2>
 <br>
-<h5 align="center">A passionate skill fulstack developer from Kenya</h5>
+<h5 align="center">A passionate skilled fulstack developer from Kenya</h5>
 
 <h3 align="center">Get in touch</h3>
 <br>
