@@ -3,6 +3,16 @@
 <br>
 <h5 align="center">A passionate skilled fulstack developer from Kenya</h5>
 
+Welcome to my GitHub repository. Here you will mostly find projects that I have worked on in a leisurely manner. Most of my recent projects are private.
+
+[![Mutugis's GitHub stats](https://github-readme-stats.vercel.app/api?username=colrium&show_icons=true&layout=compact&theme=dark)](https://github.com/colrium)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colrium&layout=compact&theme=dark)](https://github.com/colrium)
+
+
+## About Me
+
+I'm a Full Stack Software Engineer. I primarily develop with TypeScript, React, Nest.js, and Mongo DB.
 <h3 align="center">Get in touch</h3>
 <br>
 <p align="center">
