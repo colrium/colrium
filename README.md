@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 48px; border-bottom: 1px solid transparent;">Hello 👋</h1>
 <h2 align="center" style="font-size: 32px; border-bottom: 1px solid transparent;">I'm Mutugi</h2>
 <br>
-<h5 align="center">I'm a Full Stack Software Engineer. I primarily develop with Java, Kotlin, Swift, TypeScript, React, Nest.js, and Mongo DB.</h5>
+<h5 align="center">I'm a Full Stack developer from 🇰🇪 Nairobi, Kenya. I primarily develop with Java, Kotlin, TypeScript, React, Nest.js, and Mongo DB.</h5>
 
 Welcome to my GitHub repository. Here you will mostly find projects that I have worked on in a leisurely manner. Most of my recent projects are private.
 
