@@ -6,9 +6,7 @@ I'm Mutugi, Full Stack developer from 🇰🇪 Nairobi, Kenya. I primarily devel
 </p>
 <p>Here you will mostly find projects that I have worked on in a leisurely manner. Most of my recent projects are private.</p>
 
-[![Mutugis's GitHub stats](https://github-readme-stats.vercel.app/api?username=colrium&show_icons=true&layout=compact&theme=dark)](https://github.com/colrium)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colrium&layout=compact&theme=dark)](https://github.com/colrium)
 
 
 <h3>Get in touch</h3>
