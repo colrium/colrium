@@ -1,13 +1,10 @@
 <h1 style="font-size: 48px; border-bottom: 1px solid transparent;">Hey!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<h2 style="font-size: 32px; border-bottom: 1px solid transparent;">Nice to see you.</h2>
+<h2 style="font-size: 32px; border-bottom: 1px solid transparent;">Am glad you are here.</h2>
 <br>
 <p>Welcome to my page <br />
-I'm Mutugi, Full Stack developer from 🇰🇪 Nairobi, Kenya. I primarily develop with Java, Kotlin, TypeScript & Javascript.
+I'm Mutugi, a Software Engineer from 🇰🇪 Nairobi, Kenya.
 </p>
 <p>Here you will mostly find projects that I have worked on in a leisurely manner. Most of my recent projects are private.</p>
-
-
-
 
 <h3>Get in touch</h3>
 <br>
