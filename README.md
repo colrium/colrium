@@ -14,8 +14,9 @@
 ![Typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-F7DF1C?style=flat-square&logo=Kotlin&logoColor=FFFFFF&labelColor=FE24462&color=E24462)
 ![Swift](https://img.shields.io/badge/-Swift-f05138?style=flat-square&logo=swift&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=JAVA&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
+<!-- ![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=openjdk&logoColor=ffffff) -->
 
 <h3>Stack</h3>
 <!-- ### Operating Systems -->
@@ -30,19 +31,21 @@
 ![Redis](https://img.shields.io/badge/-Redis-c93131?style=flat-square&logo=redis&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=ffffff)
+
+<!-- ### Operating Systems -->
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=ffffff)
 <!-- ### Backend Frameworks -->
 ![Express.js](https://img.shields.io/badge/-Express.js-282C34?style=flat-square&logo=express)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-EA2845?style=flat-square&logo=nestjs)
 ![Laravel](https://img.shields.io/badge/-Laravel-f55247?style=flat-square&logo=laravel&logoColor=ffffff)
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-dd4814?style=flat-square&logo=codeigniter&logoColor=ffffff)
-<!-- ### Mobile Development -->
-![React Native](https://img.shields.io/badge/-React%20Native-2c3e50?style=flat-square&logo=react)
-![Jetpack](https://img.shields.io/badge/-Jetpack-2c3e50?style=flat-square&logo=android)
 <!-- ### Frontend Frameworks and Libraries -->
 ![React.js](https://img.shields.io/badge/-React.js-282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1a202c?style=flat-square&logo=tailwind-css)
-
+<!-- ### Mobile Development -->
+![React Native](https://img.shields.io/badge/-React%20Native-2c3e50?style=flat-square&logo=react)
+![Jetpack](https://img.shields.io/badge/-Jetpack-2c3e50?style=flat-square&logo=android)
 <!-- ### Build Tools and Bundlers -->
 ![Webpack](https://img.shields.io/badge/-Webpack-2C3A42?style=flat-square&logo=webpack)
 ![Rollup](https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
