@@ -1,9 +1,8 @@
-<h1 align="center">Hey there! <img
-    src="https://em-content.zobj.net/thumbs/160/apple/285/smiling-face-with-sunglasses_1f60e.png"
-    width="30" /></h1>
+<h1 align="left" id="macropower-title">👋 Hello there! I'm Mutugi Riungu</h1>
+<h3 align="left">I do SW/SR/Platform Engineering things</h3>
 
 <p>
-  I'm Mutugi, a Software Engineer from Nairobi, Kenya 🇰🇪. I'm a versatile developer, with experience in building robust platforms. I like performance and love communication. 
+  I'm currently in Nairobi, Kenya 🇰🇪 (GMT+3). I like performance and love communication. 
   On this page, you'll find some of my personal projects. While most of my recent work is private, I hope you enjoy exploring what I've shared!
 </p>
 
@@ -18,12 +17,14 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
 <!-- ![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=openjdk&logoColor=ffffff) -->
 
-<h3>Stack</h3>
+<h3>Favourite Tech</h3>
 <!-- ### Operating Systems -->
+Tools, languages, and other things that I like to work with.
 
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![OS](https://img.shields.io/badge/OS-Debian-informational?style=flat-square&logo=debian&logoColor=white)](https://en.wikipedia.org/wiki/Debian)
+<!-- [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS) -->
 
 
 <!-- ### Databases -->
