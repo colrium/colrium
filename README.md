@@ -19,7 +19,7 @@
 
 <h3>Favourite Tech</h3>
 <!-- ### Operating Systems -->
-Tools, languages, and other things that I like to work with.
+Tools, stack, and other things that I like to work with.
 
 [![OS](https://img.shields.io/badge/OS-Debian-informational?style=flat-square&logo=debian&logoColor=white)](https://en.wikipedia.org/wiki/Debian)
 <!-- [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
