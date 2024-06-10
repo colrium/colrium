@@ -69,9 +69,8 @@ Tools, stack, and other things that I like to work with.
 ![IDE](https://img.shields.io/badge/IDE-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=1575F9&labelColor=gray) -->
 
 
-<h3>Stats</h3>
+<!-- <h3>Stats</h3>
 
-<!-- ![colrium's github stats](https://github-readme-stats.vercel.app/api?username=colrium&show_icons=true&theme=react) -->
 <div align="center" >
 <a  href="https://github.com/colrium">
 
@@ -80,6 +79,7 @@ Tools, stack, and other things that I like to work with.
 <img src="https://raw.githubusercontent.com/colrium/github-profile-summary-cards/master/profile-summary-card-output/react/2-most-commit-language.svg" width="32.5%">
 
 </a>
+</div> -->
 
 <h3 align="center">Connect with me</h3>
 
