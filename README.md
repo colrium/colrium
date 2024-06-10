@@ -81,9 +81,9 @@ Tools, stack, and other things that I like to work with.
 </a>
 </div> -->
 
-<h3 align="center">Connect with me</h3>
+<h3>Connect with me</h3>
 
-<p align="center">
+<p>
   <a href="https://twitter.com/mutugiriungu" target="_blank">
     <img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
