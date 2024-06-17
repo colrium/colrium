@@ -21,8 +21,8 @@
 <!-- ### Operating Systems -->
 Tools, stack, and other things that I like to work with.
 
-[![OS](https://img.shields.io/badge/OS-Debian-informational?style=flat-square&logo=debian&logoColor=white)](https://en.wikipedia.org/wiki/Debian)
-<!-- [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+<!-- [![OS](https://img.shields.io/badge/OS-Debian-informational?style=flat-square&logo=debian&logoColor=white)](https://en.wikipedia.org/wiki/Debian)
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS) -->
 
