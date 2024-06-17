@@ -14,8 +14,8 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-F7DF1C?style=flat-square&logo=Kotlin&logoColor=FFFFFF&labelColor=FE24462&color=E24462)
 ![Swift](https://img.shields.io/badge/-Swift-f05138?style=flat-square&logo=swift&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-<!-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff) -->
 ![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=openjdk&logoColor=ffffff)
+<!-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff) -->
 
 <h3>Favourite Tech</h3>
 <!-- ### Operating Systems -->
